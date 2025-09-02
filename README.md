@@ -18,7 +18,6 @@ O objetivo principal foi utilizar um caso de estudo real — a implementação d
 
 -   **`Relatorio_Final.pdf`**: O artigo completo com a análise detalhada do caso, o referencial teórico e as conclusões do grupo.
 -   **`Grafico_Simulacao_Vies.png`**: Gráfico que visualiza o impacto do viés de gênero na simulação de troca realizada no estudo original.
--   **`Post_LinkedIn.txt`**: Texto de divulgação do trabalho, formatado para a plataforma LinkedIn.
 
 ## 💻 Como Usar
 
