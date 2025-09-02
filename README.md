@@ -7,22 +7,22 @@ O objetivo principal foi utilizar um caso de estudo real — a implementação d
 
 ## 🎯 Objetivos do Estudo
 
--   Analisar como vieses humanos são absorvidos e amplificados por modelos de IA.
--   Mapear os riscos de aplicar algoritmos "caixa-preta" (*black box*) em áreas críticas como a saúde.
--   Discutir o impacto social da tecnologia na autonomia e nos direitos fundamentais dos pacientes, à luz da LGPD.
+-   Analisar como vieses humanos são absorvidos e amplificados por modelos de IA;
+-   Mapear os riscos de aplicar algoritmos "caixa-preta" (*black box*) em áreas críticas como a saúde;
+-   Discutir o impacto social da tecnologia na autonomia e nos direitos fundamentais dos pacientes, à luz da LGPD;
 -   Propor recomendações práticas para um desenvolvimento de IA mais ético e responsável, baseado nos princípios de "Ethical AI by Design".
 
 ---
 
 ## 📖 Conteúdo do Repositório
 
--   **`Relatorio_Final.pdf`**: O artigo completo com a análise detalhada do caso, o referencial teórico e as conclusões do grupo.
+-   **`Relatorio_Final.pdf`**: O artigo completo com a análise detalhada do caso, o referencial teórico e as conclusões do grupo;
 -   **`Grafico_Simulacao_Vies.png`**: Gráfico que visualiza o impacto do viés de gênero na simulação de troca realizada no estudo original.
 
 ## 💻 Como Usar
 
-1.  Faça o download do arquivo `Relatorio_Final.pdf` para a leitura completa do nosso estudo.
-2.  Visualize o `Grafico_Simulacao_Vies.png` para entender rapidamente o resultado central da pesquisa analisada.
+1.  Faça o download do arquivo `Relatorio_Final.pdf` para a leitura completa do nosso estudo;
+2.  Visualize o `Grafico_Simulacao_Vies.png` para entender rapidamente o resultado central da pesquisa analisada;
 3.  Acesse e interaja com a nossa **[publicação no LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7368751903909912577/ )** para participar da discussão sobre o tema.
 
 ---
