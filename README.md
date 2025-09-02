@@ -17,7 +17,7 @@ O objetivo principal foi utilizar um caso de estudo real — a implementação d
 ## 📖 Conteúdo do Repositório
 
 -   **`Análise de Caso- Vieses em IA na Triagem de Emergência do Hospital de Bordeaux.pdf`**: O artigo completo com a análise detalhada do caso, o referencial teórico e as conclusões do grupo;
--   **`grafico vies triagem.jpg`**: Gráfico que visualiza o impacto do viés de gênero na simulação de troca realizada no estudo original.
+-   **`grafico vies triagem.jpg`**: Gráfico que visualiza o impacto do viés de gênero, obtidos na simulação onde ocorreu a troca de dados no sistema, realizada no estudo original.
 
 ## 💻 Como Usar
 
