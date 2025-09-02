@@ -24,7 +24,7 @@ O objetivo principal foi utilizar um caso de estudo real — a implementação d
 
 1.  Faça o download do arquivo `Relatorio_Final.pdf` para a leitura completa do nosso estudo.
 2.  Visualize o `Grafico_Simulacao_Vies.png` para entender rapidamente o resultado central da pesquisa analisada.
-3.  Utilize o `Post_LinkedIn.txt` como modelo para divulgar o trabalho ou iniciar discussões sobre o tema.
+3.  Acesse e interaja com a nossa **[publicação no LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7368751903909912577/ )** para participar da discussão sobre o tema.
 
 ---
 
