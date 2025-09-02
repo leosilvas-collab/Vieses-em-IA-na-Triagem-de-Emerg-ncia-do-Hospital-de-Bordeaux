@@ -29,7 +29,7 @@ O objetivo principal foi utilizar um caso de estudo real — a implementação d
 
 ## 👥 Autores
 
-Este projeto foi desenvolvido de forma colaborativa por estudantes da área de tecnologia, com o objetivo de aprofundar os conhecimentos em ética e IA:
+Este projeto foi desenvolvido de forma colaborativa por estudantes de curso superior de tecnologia, com o objetivo de aprofundar os conhecimentos em ética e IA:
 
 - [Caio Gizzi](https://github.com/CaioGizzi)  
 - [João](https://github.com/devjoaovieira)  
